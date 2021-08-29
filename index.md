@@ -1,6 +1,6 @@
 # Crossing Buddy
 
-Alex Esenwein - aesenwein2018@my.fit.edu  
+Alex Esenwein - [aesenwein2018@my.fit.edu](mailto:aesenwein2018@my.fit.edu)  
 Ryan Schwieterman - rschwieterma2018@my.fit.edu  
 Joshua Quinto - jquinto2018@my.fit.edu  
 Elias Anastasopoulos - eanastasopou2018@my.fit.edu
