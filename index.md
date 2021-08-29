@@ -4,6 +4,7 @@ You can use the [editor on GitHub](https://github.com/rschwieter/CrossingBuddy/e
 
 #### Proposal: (This one is just a test to see if we can open it)
 * [Project Proposal](https://docs.google.com/presentation/d/1ZuiCjqBRgZdMdqE8y38JPiSn66Kbp3qO/edit?usp=sharing&ouid=107477535328863637721&rtpof=true&sd=true) 
+test
 
 <span style="color:green">**Semester 1 Plan (September 8th):**</span>  * Project Plan  * Presentation
 
