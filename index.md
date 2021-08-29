@@ -1,12 +1,15 @@
 <span style="color:green">What is Crossing Buddy?</span>    
 -- Explain Crossing Buddy Here --      
   
-  test
+<p>&nbsp;</p>
+<p>&nbsp;</p>
   
 Alex Esenwein - [aesenwein2018@my.fit.edu](mailto:aesenwein2018@my.fit.edu)  
 Ryan Schwieterman - [rschwieterma2018@my.fit.edu](mailto:rschwieterma2018@my.fit.edu)  
 Joshua Quinto - [jquinto2018@my.fit.edu](mailto:jquinto2018@my.fit.edu)  
-Elias Anastasopoulos - [eanastasopou2018@my.fit.edu](mailto:eanastasopou2018@my.fit.edu)      
+Elias Anastasopoulos - [eanastasopou2018@my.fit.edu](mailto:eanastasopou2018@my.fit.edu) 
+
+<p>&nbsp;</p>
 
 <span style="color:green">**Proposal:**</span>    
 * [Project Proposal](https://docs.google.com/presentation/d/1ZuiCjqBRgZdMdqE8y38JPiSn66Kbp3qO/edit?usp=sharing&ouid=107477535328863637721&rtpof=true&sd=true) 
@@ -14,6 +17,9 @@ Elias Anastasopoulos - [eanastasopou2018@my.fit.edu](mailto:eanastasopou2018@my.
 <span style="color:green">**Semester 1 Plan (September 8th):**</span>  
 * [Project Plan](https://docs.google.com/document/d/1w-vZPdgByh9qIA0jleiOVF1CijtTrfICiwIqWY-6e_0/edit?usp=sharing)
 * [Presentation](https://docs.google.com/presentation/d/1OUl30r3JOwekr-Na9jHybWl1eVpB3CXt-dT1j3iPfaw/edit?usp=sharing)  
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 | Milestone 1  |  Milestone 2  | Milestone 3 |
 | :---------------------------: |:---------------------------:| :---------------------------:|
