@@ -51,15 +51,15 @@ Elias Anastasopoulos - [eanastasopou2018@my.fit.edu](mailto:eanastasopou2018@my.
 * Project Plan 
 * Presentation  
 
-### Milestone 4 (February 15th):
+### Milestone 4 (TBD):
 * Presentation  
 * Progress Evaluation
 
-### Milestone 5 (March 15th):
+### Milestone 5 (TBD):
 * Presentation  
 * Progress Evaluation
 
-### Milestone 6 (April 21st):
+### Milestone 6 (TBD):
 * User/Developer Manual  
 * Demo Video  
 * Presentation  
