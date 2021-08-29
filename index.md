@@ -6,36 +6,41 @@ You can use the [editor on GitHub](https://github.com/rschwieter/CrossingBuddy/e
 [Project Proposal](https://docs.google.com/presentation/d/1ZuiCjqBRgZdMdqE8y38JPiSn66Kbp3qO/edit?usp=sharing&ouid=107477535328863637721&rtpof=true&sd=true) 
 
 ### Semester 1 Plan (September 8th):
-Project Plan
+Project Plan  
 Presentation
 
 ### Milestone 1 (October 4th):
-Requirements Document
-Design Document
-Test Document
-Progress Evaluation
-Presentation
+Requirements Document  
+Design Document  
+Test Document  
+Presentation  
+Progress Evaluation  
 
 ### Milestone 2 (November 1st):
-Presentation
-Progress Evaluation
+Presentation  
+Progress Evaluation  
 
 ### Milestone 3 (November 29th):
-Presentation
-Progress Evaluation
+Presentation  
+Progress Evaluation  
 
 ### Semester 2 Plan (TBD):
-Project Plan TBD
-Presentation TBD
+Project Plan TBD  
+Presentation TBD  
 
-### Milestone 4 (TBD):
+### Milestone 4 (February 15th):
+Presentation  
+Progress Evaluation
 
+### Milestone 5 (March 15th):
+Presentation  
+Progress Evaluation
 
-### Milestone 5 (TBD):
-
-
-### Milestone 6 (TBD):
-
+### Milestone 6 (April 21st):
+User/Developer Manual  
+Demo Video  
+Presentation  
+Progress Evaluation  
 
 ## To edit the website:
 
