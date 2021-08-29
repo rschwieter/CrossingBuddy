@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/rschwieter/CrossingBuddy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-### Proposal: (This one is just a test to see if we can open it)
+#### Proposal: (This one is just a test to see if we can open it)
 * [Project Proposal](https://docs.google.com/presentation/d/1ZuiCjqBRgZdMdqE8y38JPiSn66Kbp3qO/edit?usp=sharing&ouid=107477535328863637721&rtpof=true&sd=true) 
 
 ### Semester 1 Plan (September 8th):
@@ -10,6 +10,8 @@ You can use the [editor on GitHub](https://github.com/rschwieter/CrossingBuddy/e
 * Presentation
 
 <span style="color:blue">some *This is Blue italic.* text</span>
+<span style="color:red">some *This is Red Bold.** text</span>
+<span style="color:green">some *This is Green idk.*** text</span>
 ### Milestone 1 (October 4th):
 * Requirements Document  
 * Design Document  
