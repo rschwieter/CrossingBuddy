@@ -1,8 +1,43 @@
-## Crossing Buddy
+# Crossing Buddy:
 
 You can use the [editor on GitHub](https://github.com/rschwieter/CrossingBuddy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-# To edit the website:
+### Proposal: (This one is just a test to see if we can open it)
+[Project Proposal](https://docs.google.com/presentation/d/1ZuiCjqBRgZdMdqE8y38JPiSn66Kbp3qO/edit?usp=sharing&ouid=107477535328863637721&rtpof=true&sd=true) 
+
+### Semester 1 Plan (September 8th):
+Project Plan
+Presentation
+
+### Milestone 1 (October 4th):
+Requirements Document
+Design Document
+Test Document
+Progress Evaluation
+Presentation
+
+### Milestone 2 (November 1st):
+Presentation
+Progress Evaluation
+
+### Milestone 3 (November 29th):
+Presentation
+Progress Evaluation
+
+### Semester 2 Plan (TBD):
+Project Plan TBD
+Presentation TBD
+
+### Milestone 4 (TBD):
+
+
+### Milestone 5 (TBD):
+
+
+### Milestone 6 (TBD):
+
+
+## To edit the website:
 
 ### Markdown
 
