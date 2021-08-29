@@ -1,10 +1,10 @@
 <span style="color:green">What is Crossing Buddy?</span>    
--- Explain Crossing Buddy Here --
+-- Explain Crossing Buddy Here --      
 
 Alex Esenwein - [aesenwein2018@my.fit.edu](mailto:aesenwein2018@my.fit.edu)  
 Ryan Schwieterman - [rschwieterma2018@my.fit.edu](mailto:rschwieterma2018@my.fit.edu)  
 Joshua Quinto - [jquinto2018@my.fit.edu](mailto:jquinto2018@my.fit.edu)  
-Elias Anastasopoulos - [eanastasopou2018@my.fit.edu](mailto:eanastasopou2018@my.fit.edu)
+Elias Anastasopoulos - [eanastasopou2018@my.fit.edu](mailto:eanastasopou2018@my.fit.edu)      
 
 <span style="color:green">**Proposal:**</span>    
 * [Project Proposal](https://docs.google.com/presentation/d/1ZuiCjqBRgZdMdqE8y38JPiSn66Kbp3qO/edit?usp=sharing&ouid=107477535328863637721&rtpof=true&sd=true) 
