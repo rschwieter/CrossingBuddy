@@ -6,7 +6,7 @@ Ryan Schwieterman - [rschwieterma2018@my.fit.edu](mailto:rschwieterma2018@my.fit
 Joshua Quinto - [jquinto2018@my.fit.edu](mailto:jquinto2018@my.fit.edu)  
 Elias Anastasopoulos - [eanastasopou2018@my.fit.edu](mailto:eanastasopou2018@my.fit.edu)
 
-#### Proposal:
+<span style="color:green">**Proposal:**</span>    
 * [Project Proposal](https://docs.google.com/presentation/d/1ZuiCjqBRgZdMdqE8y38JPiSn66Kbp3qO/edit?usp=sharing&ouid=107477535328863637721&rtpof=true&sd=true) 
 
 <span style="color:green">**Semester 1 Plan (September 8th):**</span>  
