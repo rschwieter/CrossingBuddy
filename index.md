@@ -9,9 +9,9 @@ You can use the [editor on GitHub](https://github.com/rschwieter/CrossingBuddy/e
 * Project Plan  
 * Presentation
 
-<span style="color:blue">some *This is Blue italic.* text</span>
-<span style="color:red">some *This is Red Bold.** text</span>
-<span style="color:green">some *This is Green idk.*** text</span>
+<span style="color:blue">some *This is Blue italic.* text</span>  
+<span style="color:red">some **This is Red Bold.** text</span>  
+<span style="color:green">some ***This is Green idk.*** text</span>
 ### Milestone 1 (October 4th):
 * Requirements Document  
 * Design Document  
