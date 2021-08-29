@@ -1,21 +1,17 @@
+test
 # Crossing Buddy
 
 Alex Esenwein - [aesenwein2018@my.fit.edu](mailto:aesenwein2018@my.fit.edu)  
-Ryan Schwieterman - rschwieterma2018@my.fit.edu  
-Joshua Quinto - jquinto2018@my.fit.edu  
-Elias Anastasopoulos - eanastasopou2018@my.fit.edu
+Ryan Schwieterman - [rschwieterma2018@my.fit.edu](mailto:rschwieterma2018@my.fit.edu)  
+Joshua Quinto - [jquinto2018@my.fit.edu](mailto:jquinto2018@my.fit.edu)  
+Elias Anastasopoulos - [eanastasopou2018@my.fit.edu](mailto:eanastasopou2018@my.fit.edu)
 
 #### Proposal: (This one is just a test to see if we can open it)
 * [Project Proposal](https://docs.google.com/presentation/d/1ZuiCjqBRgZdMdqE8y38JPiSn66Kbp3qO/edit?usp=sharing&ouid=107477535328863637721&rtpof=true&sd=true) 
 
-
 <span style="color:green">**Semester 1 Plan (September 8th):**</span>  
 * [Project Plan](https://docs.google.com/document/d/1w-vZPdgByh9qIA0jleiOVF1CijtTrfICiwIqWY-6e_0/edit?usp=sharing)
 * [Presentation](https://docs.google.com/presentation/d/1OUl30r3JOwekr-Na9jHybWl1eVpB3CXt-dT1j3iPfaw/edit?usp=sharing)
-
-<span style="color:blue">some *This is Blue italic.* text</span>  
-<span style="color:red">some **This is Red Bold.** text</span>  
-<span style="color:green">some ***This is Green idk.*** text</span>
 
 | Milestone 1  |  Milestone 2  | Milestone 3 |
 | :---------------------------: |:---------------------------:| :---------------------------:|
@@ -61,30 +57,3 @@ Elias Anastasopoulos - eanastasopou2018@my.fit.edu
 * Demo Video  
 * Presentation  
 * Progress Evaluation  
-
-
-
-
-
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
