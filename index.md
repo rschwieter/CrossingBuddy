@@ -17,7 +17,7 @@ Elias Anastasopoulos - eanastasopou2018@my.fit.edu
 <span style="color:red">some **This is Red Bold.** text</span>  
 <span style="color:green">some ***This is Green idk.*** text</span>
 
-| - [ ] Milestone 1  |  Milestone 2  | Milestone 3 |
+| Milestone 1  |  Milestone 2  | Milestone 3 |
 | :---------------------------: |:---------------------------:| :---------------------------:|
 | Requirements Document | Presentation  | Presentation  |
 | Design Document | Progress Evaluation |   Progress Evaluation  |
@@ -29,7 +29,7 @@ Elias Anastasopoulos - eanastasopou2018@my.fit.edu
 ### OR
 
 
-### - [ ] Milestone 1 (October 4th):
+### Milestone 1 (October 4th):
 * Requirements Document  
 * Design Document  
 * Test Document  
