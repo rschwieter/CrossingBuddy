@@ -20,6 +20,15 @@ You can use the [editor on GitHub](https://github.com/rschwieter/CrossingBuddy/e
 * Presentation  
 * Progress Evaluation  
 
+|  Milestone 1  |  Milestone 2  | Milestone 3 |
+| :---------------------------: |:---------------------------:| :---------------------------:|
+| Requirements Document       | Presentation  | Presentation  |
+| Design Document       | Progress Evaluation       |   Progress Evaluation  |
+| Test Document |     |    |
+| Presentation |      |    |
+| Progress Evaluation | |  |
+
+
 ### Milestone 2 (November 1st):
 * Presentation  
 * Progress Evaluation  
