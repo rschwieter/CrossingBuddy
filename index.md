@@ -20,7 +20,7 @@ Elias Anastasopoulos - [eanastasopou2018@my.fit.edu](mailto:eanastasopou2018@my.
 
 <p>&nbsp;</p>
 
-| Milestone 1  |  Milestone 2  | Milestone 3 |
+| Milestone 1 (Oct 4th) |  Milestone 2 (Nov 1st) | Milestone 3 (Nov 29th) |
 | :---------------------------: |:---------------------------:| :---------------------------:|
 | [Requirements Document](https://docs.google.com/document/d/1KUoM6KicFip8w-VMK-iCaVldyWLIcWAVtIOQO-zo-7c/edit?usp=sharing) | [Presentation](https://docs.google.com/presentation/d/1XG2xOvUNG1rbtGusd14mYx3d0c4pYfSVdl0u-a_vRaA/edit?usp=sharing)  | [Presentation](https://docs.google.com/presentation/d/1vqH9HL9g4q4XfBP5dZ6ogLu7d-6sbluxx40Of-Q457c/edit?usp=sharing) |
 | [Design Document](https://docs.google.com/document/d/1mBVnKV-9GdwCOGEyRC4iFu_FX0LQsDcDQ0VhHX9MqPA/edit?usp=sharing) | [Progress Evaluation](https://docs.google.com/document/d/1Ci7U4CSbWtsh1dgYcozwzvmebGkI4v9HdvAsVPJOmZE/edit?usp=sharing) | [Progress Evaluation](https://docs.google.com/document/d/17z5UGglxJ-UIUOtvdNOt1oHP7CZcNSnFGWhatxTPGOE/edit?usp=sharing) |
