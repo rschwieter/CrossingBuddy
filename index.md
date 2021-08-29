@@ -1,4 +1,4 @@
-## What is Crossing Buddy?
+What is Crossing Buddy?
 -- Explain Crossing Buddy Here --
 
 Alex Esenwein - [aesenwein2018@my.fit.edu](mailto:aesenwein2018@my.fit.edu)  
