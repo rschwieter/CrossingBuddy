@@ -48,7 +48,7 @@ Elias Anastasopoulos - [eanastasopou2018@my.fit.edu](mailto:eanastasopou2018@my.
 * [Progress Evaluation](https://docs.google.com/document/d/17z5UGglxJ-UIUOtvdNOt1oHP7CZcNSnFGWhatxTPGOE/edit?usp=sharing)  
 
 ### Semester 2 Plan (TBD):
-* Project Plan                                              * Test
+* Project Plan  
 * Presentation  
 
 ### Milestone 4 (TBD):
