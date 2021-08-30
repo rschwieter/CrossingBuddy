@@ -18,8 +18,6 @@ Elias Anastasopoulos - [eanastasopou2018@my.fit.edu](mailto:eanastasopou2018@my.
 * [Project Plan](https://docs.google.com/document/d/1w-vZPdgByh9qIA0jleiOVF1CijtTrfICiwIqWY-6e_0/edit?usp=sharing)
 * [Presentation](https://docs.google.com/presentation/d/1OUl30r3JOwekr-Na9jHybWl1eVpB3CXt-dT1j3iPfaw/edit?usp=sharing)  
 
-<p>&nbsp;</p>
-
 | Milestone 1 (Oct. 4th) |  Milestone 2 (Nov. 1st) | Milestone 3 (Nov. 29th) |
 | :---------------------------: |:---------------------------:| :---------------------------:|
 | [Requirements Document](https://docs.google.com/document/d/1KUoM6KicFip8w-VMK-iCaVldyWLIcWAVtIOQO-zo-7c/edit?usp=sharing) | [Presentation](https://docs.google.com/presentation/d/1XG2xOvUNG1rbtGusd14mYx3d0c4pYfSVdl0u-a_vRaA/edit?usp=sharing)  | [Presentation](https://docs.google.com/presentation/d/1vqH9HL9g4q4XfBP5dZ6ogLu7d-6sbluxx40Of-Q457c/edit?usp=sharing) |
@@ -33,8 +31,6 @@ Elias Anastasopoulos - [eanastasopou2018@my.fit.edu](mailto:eanastasopou2018@my.
 <span style="color:green">**Semester 2 Plan (TBD):**</span>  
 * Project Plan  
 * Presentation  
-
-<p>&nbsp;</p>
 
 | Milestone 4 (TBD) |  Milestone 5 (TBD) | Milestone 6 (TBD) |
 | :---------------------------: |:---------------------------:| :---------------------------:|
