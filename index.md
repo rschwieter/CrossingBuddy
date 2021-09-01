@@ -3,7 +3,7 @@
   
 <p>&nbsp;</p>
   
-Faculty Advisor - God -  
+Faculty Advisor: Debasis Mitra - [dmitra@fit.edu](mailto:dmitra@fit.edu)  
 Alex Esenwein - [aesenwein2018@my.fit.edu](mailto:aesenwein2018@my.fit.edu)  
 Ryan Schwieterman - [rschwieterma2018@my.fit.edu](mailto:rschwieterma2018@my.fit.edu)  
 Joshua Quinto - [jquinto2018@my.fit.edu](mailto:jquinto2018@my.fit.edu)  
@@ -34,9 +34,9 @@ Elias Anastasopoulos - [eanastasopou2018@my.fit.edu](mailto:eanastasopou2018@my.
 
 | Milestone 4 (TBD) |  Milestone 5 (TBD) | Milestone 6 (TBD) |
 | :---------------------------: |:---------------------------:| :---------------------------:|
-| Presentation | Presentation  | User/Developer Manual |
-| Progress Evaluation | Progress Evaluation | Demo Video |
-| | | Presentation |
-| | | Progress Evaluation |
+| Presentation | Poster  | User/Developer Manual |
+| Progress Evaluation | e-book page | Demo Video |
+| | Presentation | Presentation |
+| | Progress Evaluation | Progress Evaluation |
 
 <p>&nbsp;</p>
