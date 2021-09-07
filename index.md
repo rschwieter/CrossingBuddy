@@ -1,5 +1,11 @@
 <span style="color:green">**What is Crossing Buddy?**</span>    
--- Explain Crossing Buddy Here --      
+Crossing Buddy is going to be a vest that helps the visually impaired cross the street at designated locations. 
+
+What will it do?
+* Identify the Crosswalk Sign
+* Notify the User via Audio Cues when they have the right of way
+* Detect Cars on the Left and Right of the User 
+* Notify the User via Audio Cues of Incoming Traffic
   
 <p>&nbsp;</p>
   
