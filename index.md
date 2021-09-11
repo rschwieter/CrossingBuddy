@@ -9,11 +9,13 @@ What will it do?
   
 <p>&nbsp;</p>
   
-Faculty Advisor: Debasis Mitra - [dmitra@fit.edu](mailto:dmitra@fit.edu)  
+Faculty Advisor: Dr. Debasis Mitra - [dmitra@fit.edu](mailto:dmitra@fit.edu)  
 Alex Esenwein - [aesenwein2018@my.fit.edu](mailto:aesenwein2018@my.fit.edu)  
 Ryan Schwieterman - [rschwieterma2018@my.fit.edu](mailto:rschwieterma2018@my.fit.edu)  
 Joshua Quinto - [jquinto2018@my.fit.edu](mailto:jquinto2018@my.fit.edu)  
 Elias Anastasopoulos - [eanastasopou2018@my.fit.edu](mailto:eanastasopou2018@my.fit.edu) 
+
+Client: Dr. Ryan White - [rwhite@fit.edu](mailto:rwhite@fit.edu)
 
 <p>&nbsp;</p>
 
