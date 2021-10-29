@@ -1,0 +1,5 @@
+train: custom_test/train/images
+val: custom_test/valid/images
+
+nc: 2
+names: ['crosswalk_go', 'crosswalk_stop']
