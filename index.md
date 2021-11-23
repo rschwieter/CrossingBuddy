@@ -37,7 +37,7 @@ Client: Dr. Ryan White - [rwhite@fit.edu](mailto:rwhite@fit.edu)
 <p>&nbsp;</p>
 
 <span style="color:green">**Semester 2 Plan (TBD):**</span>  
-* Project Plan  
+* [Project Plan](https://docs.google.com/document/d/14KETmc4MNX30eIQPohXhV731SjUMzbc717a_Mkb4Amg/edit?usp=sharing)  
 * Presentation  
 
 | Milestone 4 (TBD) |  Milestone 5 (TBD) | Milestone 6 (TBD) |
