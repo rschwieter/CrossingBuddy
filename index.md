@@ -38,7 +38,7 @@ Client: Dr. Ryan White - [rwhite@fit.edu](mailto:rwhite@fit.edu)
 
 <span style="color:green">**Semester 2 Plan (January 19th):**</span>  
 * [Project Plan](https://docs.google.com/document/d/14KETmc4MNX30eIQPohXhV731SjUMzbc717a_Mkb4Amg/edit?usp=sharing)  
-* Presentation  
+* [Presentation](https://docs.google.com/presentation/d/1LDiSiXxf0-hrL4H5SmDppoKzVNqnomkUiqn2QYZnHq0/edit?usp=sharing)  
 
 | Milestone 4 (Feb. 14th) |  Milestone 5 (Mar. 21st) | Milestone 6 (Apr. 22nd) |
 | :---------------------------: |:---------------------------:| :---------------------------:|
