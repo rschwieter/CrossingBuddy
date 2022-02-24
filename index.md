@@ -45,6 +45,6 @@ Client: Dr. Ryan White - [rwhite@fit.edu](mailto:rwhite@fit.edu)
 | [Presentation](https://docs.google.com/presentation/d/14BR-q3Y-o6LE_89ad5vrNA2L4H4Eb2gJkYT4RbB74Bk/edit?usp=sharing) | Poster  | User/Developer Manual |
 | [Progress Evaluation](https://docs.google.com/document/d/1db3UPHz26g7-OAP3qkv4JbjnMbBdk8sxTIPUMM3NpLs/edit?usp=sharing) | e-book page | Demo Video |
 | | Presentation | Presentation |
-| | Progress Evaluation | Progress Evaluation |
+| | [Progress Evaluation](https://docs.google.com/document/d/1t8Ja_io1KyAb52-LCUiIYB5KynMlUZPEwfWDWpFR2Vg/edit?usp=sharing) | Progress Evaluation |
 
 <p>&nbsp;</p>
