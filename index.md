@@ -43,7 +43,7 @@ Client: Dr. Ryan White - [rwhite@fit.edu](mailto:rwhite@fit.edu)
 | Milestone 4 (Feb. 14th) |  Milestone 5 (Mar. 21st) | Milestone 6 (Apr. 22nd) |
 | :---------------------------: |:---------------------------:| :---------------------------:|
 | [Presentation](https://docs.google.com/presentation/d/14BR-q3Y-o6LE_89ad5vrNA2L4H4Eb2gJkYT4RbB74Bk/edit?usp=sharing) | Poster  | User/Developer Manual |
-| [Progress Evaluation](https://docs.google.com/document/d/1db3UPHz26g7-OAP3qkv4JbjnMbBdk8sxTIPUMM3NpLs/edit?usp=sharing) | e-book page | Demo Video |
+| [Progress Evaluation](https://docs.google.com/document/d/1db3UPHz26g7-OAP3qkv4JbjnMbBdk8sxTIPUMM3NpLs/edit?usp=sharing) | [e-book page](https://docs.google.com/document/d/1Ar0ZObqj4WbPedtBHEH-OEU4JsZDo_cc/edit?usp=sharing&ouid=107477535328863637721&rtpof=true&sd=true) | Demo Video |
 | | Presentation | Presentation |
 | | [Progress Evaluation](https://docs.google.com/document/d/1t8Ja_io1KyAb52-LCUiIYB5KynMlUZPEwfWDWpFR2Vg/edit?usp=sharing) | Progress Evaluation |
 
