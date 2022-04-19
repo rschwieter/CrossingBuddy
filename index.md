@@ -40,7 +40,7 @@ Client: Dr. Ryan White - [rwhite@fit.edu](mailto:rwhite@fit.edu)
 * [Project Plan](https://docs.google.com/document/d/14KETmc4MNX30eIQPohXhV731SjUMzbc717a_Mkb4Amg/edit?usp=sharing)  
 * [Presentation](https://docs.google.com/presentation/d/1LDiSiXxf0-hrL4H5SmDppoKzVNqnomkUiqn2QYZnHq0/edit?usp=sharing)  
 
-| Milestone 4 (Feb. 14th) |  Milestone 5 (Mar. 21st) | Milestone 6 (Apr. 22nd) |
+| Milestone 4 (Feb. 14th) |  Milestone 5 (Mar. 21st) | Milestone 6 (Apr. 18th) |
 | :---------------------------: |:---------------------------:| :---------------------------:|
 | [Presentation](https://docs.google.com/presentation/d/14BR-q3Y-o6LE_89ad5vrNA2L4H4Eb2gJkYT4RbB74Bk/edit?usp=sharing) | [Poster](https://docs.google.com/presentation/d/1LtqAhr0nll8yug1nRHJA1CjAgDUZ0m6j/edit?usp=sharing&ouid=107477535328863637721&rtpof=true&sd=true)  | [User/Developer Manual](https://docs.google.com/document/d/1t9_HtRwa-hYmRnYES1wHT4LX1sOERonB5riBuI899d8/edit?usp=sharing) |
 | [Progress Evaluation](https://docs.google.com/document/d/1db3UPHz26g7-OAP3qkv4JbjnMbBdk8sxTIPUMM3NpLs/edit?usp=sharing) | [e-book page](https://docs.google.com/document/d/1Ar0ZObqj4WbPedtBHEH-OEU4JsZDo_cc/edit?usp=sharing&ouid=107477535328863637721&rtpof=true&sd=true) | [Demo Video](https://drive.google.com/file/d/1pRB-bMFLuDuaiY42I05ya0XCSOQOhTiF/view?usp=sharing) |
